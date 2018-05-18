@@ -34,5 +34,4 @@ Consider the important question "The *best* pizza is..."
 * Topher says "(fill me in)"
 * Bria says "(fill me in)"
 * Abby says "(fill me in)"
-* Liz says "(fill me in)"
-* Ellen Mary says "Atomic Cowboy: Pineapple and feta"
+* Liz says wood fired thin crust. With mushrooms.
